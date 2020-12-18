@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![zephire github stats](https://github-readme-stats.vercel.app/api?username=zephire1)](https://vk.com/idredgame)
+
 <!--
 **zephire1/zephire1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
